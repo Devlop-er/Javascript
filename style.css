@@ -1,0 +1,7 @@
+html {
+  background: url(https://i.ytimg.com/vi/6LYZL69EmEM/maxresdefault.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
