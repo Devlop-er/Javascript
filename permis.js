@@ -9,7 +9,6 @@ function VerificationAge() {
   } else {
     alert('Dommage une prochaine fois, À bientot !')
   }
-    else alert('Dommage une prochaine fois =)");
 }
 
 VerificationAge();
