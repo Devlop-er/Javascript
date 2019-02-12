@@ -6,6 +6,8 @@ function VerificationAge() {
     alert('Tu n\'as pas la majorité pour conduire...');
   } else if (Number(age) > 18) {
     alert('Tu est majeur, bonne conduite');
+  } else {
+    alert('Dommage une prochaine fois, À bientot !')
   }
 }
 
