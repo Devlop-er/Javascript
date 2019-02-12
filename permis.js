@@ -7,7 +7,7 @@ function VerificationAge() {
   } else if (Number(age) > 18) {
     alert('Tu est majeur, bonne conduite');
   }
-    else alert('Dommage une prochaine fois =)"):
+    else alert('Dommage une prochaine fois =)");
 }
 
 VerificationAge();
